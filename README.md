@@ -10,6 +10,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Top 17 Plugins for Android Studio](https://blog.codota.com/top-17-plugins-for-android-studio/)
 * [CODE REFACTORING TECHNIQUES](https://apiumhub.com/tech-blog-barcelona/code-refactoring-techniques/)
 * [Before Learning Kotlin, Think Kotlin](https://www.linkedin.com/pulse/before-learning-kotlin-think-ahmed-adel/)
+* [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
 ---
