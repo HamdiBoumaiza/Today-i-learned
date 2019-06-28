@@ -11,6 +11,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [CODE REFACTORING TECHNIQUES](https://apiumhub.com/tech-blog-barcelona/code-refactoring-techniques/)
 * [Before Learning Kotlin, Think Kotlin](https://www.linkedin.com/pulse/before-learning-kotlin-think-ahmed-adel/)
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Your First Android App Bundle](https://codelabs.developers.google.com/codelabs/your-first-dynamic-app/index.html#0)
 
 
 ---
