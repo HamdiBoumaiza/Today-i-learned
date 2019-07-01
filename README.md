@@ -12,6 +12,9 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Before Learning Kotlin, Think Kotlin](https://www.linkedin.com/pulse/before-learning-kotlin-think-ahmed-adel/)
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Your First Android App Bundle](https://codelabs.developers.google.com/codelabs/your-first-dynamic-app/index.html#0)
+* [Get started with the Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
+
+
 
 
 ---
