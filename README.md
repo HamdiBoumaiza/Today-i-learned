@@ -14,7 +14,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Your First Android App Bundle](https://codelabs.developers.google.com/codelabs/your-first-dynamic-app/index.html#0)
 * [Get started with the Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
 * [Best practices for supporting Android Application in multiple screen](https://medium.com/programming-lite/best-practices-for-supporting-android-application-in-multiple-screen-a685afa83493)
-
+* [Best practices in Android development](https://github.com/futurice/android-best-practices)
 
 
 
