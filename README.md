@@ -4,6 +4,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 ---
 ### Android
 
+* [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [Android Conferences](http://androidstudygroup.github.io/conferences/)
 * [Network Error Handling & Response Caching](https://medium.com/@tsaha.cse/advanced-retrofit2-part-1-network-error-handling-response-caching-77483cf68620)
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide)
