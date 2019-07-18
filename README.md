@@ -3,9 +3,12 @@ This repo is aiming to share the stuff that i learn from day to day .
 
 ---
 ### Android
-
-* [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
+* [UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference)
+* [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Android Conferences](http://androidstudygroup.github.io/conferences/)
+
+## Articles
+* [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [Network Error Handling & Response Caching](https://medium.com/@tsaha.cse/advanced-retrofit2-part-1-network-error-handling-response-caching-77483cf68620)
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide)
 * [A complete idiot’s guide to Clean Architecture](https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f)
@@ -17,7 +20,8 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Your First Android App Bundle](https://codelabs.developers.google.com/codelabs/your-first-dynamic-app/index.html#0)
 * [Get started with the Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
 * [Best practices for supporting Android Application in multiple screen](https://medium.com/programming-lite/best-practices-for-supporting-android-application-in-multiple-screen-a685afa83493)
-* [Best practices in Android development](https://github.com/futurice/android-best-practices)
+* [Finally understanding how references work in Android and Java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
+
 
 
 
