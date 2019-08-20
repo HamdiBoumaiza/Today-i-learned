@@ -21,6 +21,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Best practices for supporting Android Application in multiple screen](https://medium.com/programming-lite/best-practices-for-supporting-android-application-in-multiple-screen-a685afa83493)
 * [Finally understanding how references work in Android and Java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
 * [Common Design Patterns for Android with Kotlin](https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin#toc-anchor-001)
+* [Android Activity “launchMode” In Action](https://medium.com/mobidroid/android-activity-launchmode-in-action-847c4fe977ca)
 
 ### Programming Related
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
