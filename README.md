@@ -23,6 +23,8 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Common Design Patterns for Android with Kotlin](https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin#toc-anchor-001)
 * [Android Activity “launchMode” In Action](https://medium.com/mobidroid/android-activity-launchmode-in-action-847c4fe977ca)
 * [A Guided Tour inside a clean architecture code base.](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
+* [Kotlin Destructuring Declarations](https://www.kotlindevelopment.com/destructuring-declarations/)
+
 
 
 
