@@ -30,7 +30,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 
 ### Programming Related
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
-* [Are You Writing Too Much Code?] https://medium.com/better-programming/are-you-writing-too-much-code-fb4a9605375
+* [Are You Writing Too Much Code?] (https://medium.com/better-programming/are-you-writing-too-much-code-fb4a9605375)
 
 
 
