@@ -35,7 +35,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 ---
 ### Life Related
 * [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
-
+* [This Morning Routine will Save You 20+ Hours Per Week](https://medium.com/better-humans/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c)
 
 ---
 ## Inspiration
