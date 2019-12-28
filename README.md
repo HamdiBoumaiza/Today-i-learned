@@ -26,6 +26,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Coroutines in Kotlin 1.3 explained](https://antonioleiva.com/kotlin-coroutines/)
 * [Suspending over Views](https://chris.banes.dev/2019/12/03/suspending-views/)
 * [Hello Kotlin - Kotlin Cheat Sheet](https://github.com/HugoMatilla/KotlinCheatSheet)
+* [Dagger Android Migration Guide](https://android.jlelse.eu/android-and-dagger-2-10-androidinjector-5e9c523679a3)
 
 
 
