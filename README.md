@@ -28,6 +28,8 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Hello Kotlin - Kotlin Cheat Sheet](https://github.com/HugoMatilla/KotlinCheatSheet)
 * [Dagger Android Migration Guide](https://android.jlelse.eu/android-and-dagger-2-10-androidinjector-5e9c523679a3)
 * [Kotlin Coroutine Job Hierarchy](https://proandroiddev.com/kotlin-coroutine-job-hierarchy-finish-cancel-and-fail-2d3d42a768a9)
+* [Dagger-Android is dead, long live Dagger in Android!](https://www.techyourchance.com/dagger-android-dead/)
+* [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 
 
 
