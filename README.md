@@ -33,6 +33,8 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [The Story of Our Big Android App Rewrite](https://blog.gojekengineering.com/the-story-of-our-big-android-app-rewrite-6ede1cc3ad9a)
 * [Think before using BuildConfig.DEBUG](https://proandroiddev.com/think-before-using-buildconfig-debug-f2e279da7bad)
 * [Composition over inheritance (and Kotlin)](https://www.rockandnull.com/composition-over-inheridance/)
+* [Deep Dive into Dagger Lazy](https://proandroiddev.com/deep-dive-into-dagger-lazy-7a5860cca7cc)
+
 
 
 ---
