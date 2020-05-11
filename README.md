@@ -36,14 +36,14 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Deep Dive into Dagger Lazy](https://proandroiddev.com/deep-dive-into-dagger-lazy-7a5860cca7cc)
 * [Koin DI & Comparison of Android Dependency Injection Frameworks](https://medium.com/@egek92/koin-di-comparison-of-android-dependency-injection-frameworks-236a6909bc3e)
 * [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
-
+* [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
 
 ---
 ### Programming Related
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [Are You Writing Too Much Code?](https://medium.com/better-programming/are-you-writing-too-much-code-fb4a9605375)
 * [Android kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
-* [Android Interview Questions](https://github.com/MindorksOpenSource/android-interview-questions)
+* [Clean Dagger](https://proandroiddev.com/clean-dagger-f248eda5790b)
 
 ---
 ### Life Related
