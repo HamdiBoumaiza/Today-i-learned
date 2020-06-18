@@ -38,6 +38,9 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Koin DI & Comparison of Android Dependency Injection Frameworks](https://medium.com/@egek92/koin-di-comparison-of-android-dependency-injection-frameworks-236a6909bc3e)
 * [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
 * [Clean Dagger](https://proandroiddev.com/clean-dagger-f248eda5790b)
+* [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
+* [Exploring Dagger-Hilt](https://proandroiddev.com/exploring-dagger-hilt-and-whats-main-differences-with-dagger-android-c8c54cd92f18)
+
 
 ---
 ### Programming Related
