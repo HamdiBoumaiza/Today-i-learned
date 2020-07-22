@@ -7,6 +7,10 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Android Conferences | androidstudygroup](http://androidstudygroup.github.io/conferences/)
 * [Android Conferences | bugfender](https://bugfender.com/conferences/)
+* [Android kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
+* [Awesome android learning resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
+* [Awesome android kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+
 * [Network Error Handling & Response Caching](https://medium.com/@tsaha.cse/advanced-retrofit2-part-1-network-error-handling-response-caching-77483cf68620)
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide)
 * [A complete idiot’s guide to Clean Architecture](https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f)
@@ -46,7 +50,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 ### Programming Related
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [Are You Writing Too Much Code?](https://medium.com/better-programming/are-you-writing-too-much-code-fb4a9605375)
-* [Android kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
+
 
 ---
 ### Life Related
