@@ -2,7 +2,7 @@
 This repo is aiming to share the stuff that i learn from day to day .
 
 ---
-### Android Articles
+### Android Conferences and Resources
 * [UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference)
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Android Conferences | androidstudygroup](http://androidstudygroup.github.io/conferences/)
@@ -11,6 +11,8 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Awesome android learning resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 * [Awesome android kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 
+
+### Android Articles
 * [Network Error Handling & Response Caching](https://medium.com/@tsaha.cse/advanced-retrofit2-part-1-network-error-handling-response-caching-77483cf68620)
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide)
 * [A complete idiot’s guide to Clean Architecture](https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f)
