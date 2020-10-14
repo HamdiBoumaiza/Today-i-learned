@@ -46,7 +46,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Clean Dagger](https://proandroiddev.com/clean-dagger-f248eda5790b)
 * [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
 * [Exploring Dagger-Hilt](https://proandroiddev.com/exploring-dagger-hilt-and-whats-main-differences-with-dagger-android-c8c54cd92f18)
-
+* [Key to a Healthy Android Project with Sonarqube](https://proandroiddev.com/android-analyzer-df0e4d80dc74)
 
 ---
 ### Programming Related
