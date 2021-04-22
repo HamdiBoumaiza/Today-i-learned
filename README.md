@@ -10,6 +10,7 @@ This repo is aiming to share the stuff that i learn from day to day .
 * [Android kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
 * [Awesome android learning resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 * [Awesome android kotlin apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+* [Android talks](https://zsmb.co/talks/)
 
 
 ### Android Articles
